@@ -14,8 +14,8 @@
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Digistump",
-          "url": "https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/digistump-avr-1.6.7.zip",
-          "archiveFileName": "digistump-avr-1.6.7.zip",
+          "url": "https://github.com/fernandespm06/orange/raw/master/digistump-avr-1.6.7-mm.zip",
+          "archiveFileName": "digistump-avr-1.6.7-mm.zip",
           "checksum": "SHA-256:7F7E9F5AB982163F7A792C411326F0192A35B8A90890B7934F2F424A5426583D",
           "size": "2491070",
           "help": {
@@ -23,7 +23,7 @@
           },
           "boards": [
             {
-              "name": "Digispark (Default - 16.5mhz)"
+              "name": "Orange Play"
             },
             {
               "name": "Digispark Pro (Default 16 Mhz)"
