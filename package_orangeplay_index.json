@@ -23,10 +23,10 @@
           },
           "boards": [
             {
-              "name": "OrangePlay"
+              "name": "OrangePlay (Default 16 Mhz)"
             },
             {
-              "name": "Digispark Pro (Default 16 Mhz)"
+              "name": "Digispark Pro  (Default 16 Mhz)"
             },
             {
               "name": "Digispark Pro (16 Mhz) (32 byte buffer)"
